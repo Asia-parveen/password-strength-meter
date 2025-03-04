@@ -60,5 +60,5 @@ The app provides feedback to help users improve their passwords:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/password-strength-meter.git
+   git clone https://github.com/Asia-parveen/password-strength-meter.git
    cd password-strength-meter
